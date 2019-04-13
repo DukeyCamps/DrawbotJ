@@ -1,9 +1,10 @@
 # DrawbotJ
 A Java Drawbot
-###Description:
+
+### Description:
 A trippy square renderer
 
-###Usage:
+### Usage:
 ```
 javac FW.class
 java FW
