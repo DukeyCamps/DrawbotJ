@@ -17,7 +17,7 @@ double vg = 500;
 int as = 20;
 Color color1;
 int GLOBAL_R = rand.nextInt(255);
-int GLOBAL_G = rand.nextInt(GLOBAL_R);
+int GLOBAL_G = rand.nextInt(255);
 int GLOBAL_B = rand.nextInt(255);
 static Random rand = new Random();
 static Color colorScheme;
@@ -97,7 +97,7 @@ this.x = 0-as;
 this.y = 0-as;
 GLOBAL_G = rand.nextInt(255);
 GLOBAL_B = rand.nextInt(255);
-GLOBAL_R = rand.nextInt(GLOBAL_G);
+GLOBAL_R = rand.nextInt(255);
 x = -as;
 y = 0;
 
