@@ -4,6 +4,7 @@
 ### Usage:
 ```
 git clone https://github.com/DukeyCamps/DrawbotJ.git
+cd drawbotj
 javac FW.class
 java FW
 ```
