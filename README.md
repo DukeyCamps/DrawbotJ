@@ -5,6 +5,6 @@
 ```
 git clone https://github.com/DukeyCamps/DrawbotJ.git
 cd DrawbotJ
-javac FW.class
-java FW
+javac FW_BUBBLE.java
+java FW_BUBBLE
 ```
