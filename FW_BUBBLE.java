@@ -160,15 +160,15 @@ public class FW_BUBBLE extends JFrame
 	/*
 	 * EXPLANATORY PSEUDO-CODE HERE So what i want to do is this: Write a bubble
 	 * sort function that bubble sorts a pass each time y > height ... now after it
-	 * has passed bubble sorting, it has to start drawing using the newly created
-	 * arraylist. since the colors are in order, all i want to do is for each paint
-	 * pass, to redistribute the color back onto the canvas. I mean, how hard could
-	 * it be? right?
+	 * had passed bubble sorting, it has to start drawing using the newly created
+	 * arraylist. since the colors are in order, all i want to do is to redist the color
+	 * after a paint pass
+	 * 
 	 * 
 	 * 1.Start off with a way to infinitely paint the same canvas 2.Insert the list
 	 * sorting algorithm
 	 * 
-	 * --Done
+	 * *delete this after*
 	 */
 
 	public Color setColor(String rendertype)	{
