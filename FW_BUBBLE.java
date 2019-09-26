@@ -1,5 +1,3 @@
-package cuberot;
-
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
@@ -12,9 +10,9 @@ public class FW_BUBBLE extends JFrame
 {
 
 	
-//	SQUARE BEING DRAWN(top-left-x ; top-left-y; width; height)
-//	TODO: Get rid of as or vg, since they can just be casted instead of taking up memory
-//	as/vg are just a way to represent width/height @function:revamp(true)
+	//	TODO: get rid of "as" or "vg", since they can just be casted instead of taking up memory
+	//	as/vg are just a way to represent width/height @function:revamp(true)
+	//  TODO: Profile it and blame someone else
 	static Random rand = new Random();
 	static Color colorScheme;
 	Color color1;
@@ -159,9 +157,9 @@ public class FW_BUBBLE extends JFrame
 
 	/*
 	 * EXPLANATORY PSEUDO-CODE HERE So what i want to do is this: Write a bubble
-	 * sort function that bubble sorts a pass each time y > height ... now after it
+	 * sort function that sorts a pass each time when y > height ... now after it
 	 * had passed bubble sorting, it has to start drawing using the newly created
-	 * arraylist. since the colors are in order, all i want to do is to redist the color
+	 * arraylist. since the colors are in order, all i want to do is redist the color
 	 * after a paint pass
 	 * 
 	 * 
