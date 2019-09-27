@@ -1,5 +1,4 @@
 # drawbotj
-## description:
 ### a visual bubble sorting algorithm
 ![shellp](https://raw.githubusercontent.com/DukeyCamps/DrawbotJ/master/lulgen.png)
 ### usage:
