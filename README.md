@@ -1,7 +1,8 @@
-# Description:
-### A visual bubble sorting algorithm
+# drawbotj
+## description:
+### a visual bubble sorting algorithm
 ![shellp](https://raw.githubusercontent.com/DukeyCamps/DrawbotJ/master/lulgen.png)
-### Usage:
+### usage:
 ```
 git clone https://github.com/DukeyCamps/DrawbotJ.git
 cd DrawbotJ
