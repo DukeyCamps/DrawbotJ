@@ -1,5 +1,5 @@
 # Description:
-### A trippy java renderer
+### A visual bubble sorting algorithm
 ![shellp](https://raw.githubusercontent.com/DukeyCamps/DrawbotJ/master/lulgen.png)
 ### Usage:
 ```
